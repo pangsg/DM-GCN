@@ -1,0 +1,62 @@
+[
+    {
+        "token": [
+            "THE",
+            "LASAGNA",
+            "WAS",
+            "PROBABLY",
+            "THE",
+            "BEST",
+            "I",
+            "HAVE",
+            "TASTED",
+            "."
+        ],
+        "pos": [
+            "DT",
+            "NNP",
+            "NNP",
+            "NNP",
+            "DT",
+            "NNS",
+            "PRP",
+            "VBP",
+            "VBN",
+            "."
+        ],
+        "head": [
+            6,
+            6,
+            6,
+            6,
+            6,
+            0,
+            9,
+            9,
+            6,
+            6
+        ],
+        "deprel": [
+            "det",
+            "compound",
+            "compound",
+            "compound",
+            "det",
+            "ROOT",
+            "nsubj",
+            "aux",
+            "acl:relcl",
+            "punct"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "LASAGNA"
+                ],
+                "from": 1,
+                "to": 2,
+                "polarity": "positive"
+            }
+        ]
+    }
+]

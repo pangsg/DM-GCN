@@ -1,0 +1,74 @@
+[
+    {
+        "token": [
+            "All",
+            "of",
+            "the",
+            "apetizers",
+            "are",
+            "good",
+            "and",
+            "the",
+            "Sangria",
+            "is",
+            "very",
+            "good",
+            "."
+        ],
+        "pos": [
+            "DT",
+            "IN",
+            "DT",
+            "NNS",
+            "VBP",
+            "JJ",
+            "CC",
+            "DT",
+            "NNP",
+            "VBZ",
+            "RB",
+            "JJ",
+            "."
+        ],
+        "head": [
+            6,
+            4,
+            4,
+            1,
+            6,
+            0,
+            6,
+            9,
+            12,
+            12,
+            12,
+            6,
+            6
+        ],
+        "deprel": [
+            "nsubj",
+            "case",
+            "det",
+            "nmod",
+            "cop",
+            "ROOT",
+            "cc",
+            "det",
+            "nsubj",
+            "cop",
+            "advmod",
+            "conj",
+            "punct"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "Sangria"
+                ],
+                "from": 8,
+                "to": 9,
+                "polarity": "positive"
+            }
+        ]
+    }
+]
