@@ -19,6 +19,11 @@ The overall framework of DM-GCN is shown in Figure 1. Inspired by AM-GCM , our k
 
 - Rported results in the paper are under a fixed random seed, thus results might be unstable under different GPU devices or random seeds. To reproduce the reported results, you can try to train the model for several times under different random seeds such as from 0 to 50. If you want to get the trained models, please contact me by email (psg-nlp@m.scnu.edu.cn)
 
+
+## CKPT-URL
+All ckpts could be downloaded in the following url
+https://drive.google.com/drive/folders/1PIGPZSbFrv5bxT-PRDD60sbKRLsEFbiz?usp=sharing
+
 ## Usage
 
 Training the model:
